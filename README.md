@@ -5,7 +5,7 @@ Email: aijungeum@gmail.com
 Affiliation: https://aijungeum.com  
 Date: November 27, 2026  
 <br>
-
+ 
 
 Abstract  
 To elucidate the intrinsic order of prime numbers within the 2-byte integer range (0 ~ 65,535), this study proposes the 16-bit character encoding system AiJungEum and a recursive (1/4) hierarchical compression algorithm. By decomposing and recombining prime numbers into four independent components and projecting them onto 4-dimensional spatiotemporal coordinates, we observed a dynamical structure—termed the KYG Hypothesis—in which seemingly random prime sequences exhibit a specific rotational bias, stable orbits, and helical vortices, ultimately converging into a single singularity.  
