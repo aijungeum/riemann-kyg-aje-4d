@@ -71,7 +71,7 @@ Theoretical warp drive concepts (such as the Alcubierre metric) rely on the asym
 The cyclical convergence and emission observed in the vortex model also suggests an alternative conceptual metaphor for cosmic origins.  
 
 Rather than an explosion 'ex nihilo', the Big Bang could be hypothesized as a phase transition following the complete convergence of a prior universe into a terminal Singularity. Under the conservation of energy, this condensed state would unfold outward from the 4-dimensional origin (x, y, z, t) = (0, 0, 0, 0) via inverse Prime_index x 4^n expansions, initiating the spacetime fabric of a new cosmic cycle. 
-<br><br>
+<br><br><br>
 
 
 
