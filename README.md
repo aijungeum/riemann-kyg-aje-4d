@@ -73,7 +73,7 @@ The KYG Hypothesis suggests that prime number sequences, which appear erratic in
 
 2. 연구 방법론: 계층적 4성분 분해 및 압축 (Methodology)
 
-2.1. 2바이트 소수 인코딩 및 4성분 분해
+2.1. 2바이트 소수 인코딩 및 4성분 분해  
 	•	기본 매핑 (Group 1): 0 ~ 65,535 범위의 모든 소수 p를 AI정음 인덱스 체계의 단일 문자 C(p)로 1:1 매핑하여 기초 배열을 생성한다.  
 	•	4성분 분리: 각 문자는 초성1(ja1), 초성2(ja2), 종성1(ja3), 종성2(ja4)의 4비트(16진수) 성분으로 분해된다. 이를 통해 원본 배열과 동일한 길이를 갖는 4개의 성분 배열(ja1_list ~ ja4_list)을 도출한다.  
 
